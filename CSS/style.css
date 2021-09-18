@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-weight: bold;    
+}
+
+h4{
+    padding: 15px 0 0 0;
+}
+
+.navbar{
+    background-color: #229954;
+}
+
+.quem-somos{
+    background-color: antiquewhite;
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 15PX;
+    
+}
+
+.parceiros{
+    background-color: #52BE80;
+}
+
+.bg-footer{
+    background-color: #073019;
+    color: white;
+}
+
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
